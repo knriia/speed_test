@@ -1,0 +1,6 @@
+[project]
+name = "speed-test"
+version = "0.1.0"
+description = "Sequential URL download speed measurement tool"
+requires-python = ">=3.10"
+dependencies = []
